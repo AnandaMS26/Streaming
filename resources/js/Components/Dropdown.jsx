@@ -19,7 +19,7 @@ const Dropdown = ({ children }) => {
 };
 
 const Trigger = ({ children }) => {
-    const { open, setOpen, toggleOpen } = useContext(DropDownContext);
+    // const { open, setOpen, toggleOpen } = useContext(DropDownContext);
 
     return (
         <>
